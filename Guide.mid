@@ -1,0 +1,29 @@
+Developing a chat application using reactJs  and fastapi
+This include building the backend
+ 1. backend
+1. Setting up fastapi
+2. Add the Cross-Origin Resource Sharing CORSmidleware
+3. Create a websocket connection manager class
+4. Create websocket Endpoint  
+
+Create a backend folder
+Create a frontend folder
+Create a venv in the backend folder
+Install fast api with : pip install fastapi
+If necessary upgrade pip with: pip install --upgrade pip  
+Install uvicorn[standard] with: pip install uvicorn[standard]
+Create a main.py file in the backend folder
+Setup fastapi
+Add CORSmidleware
+
+Building the frontend
+
+1. Setup reactJs
+2. Create html templates
+3. Add css according to design 
+4. Integration with backend
+5. Test
+
+Setting up reactJs: npm install --global yarn
+Create frontend with: yarn create react-app frontend
+Install HTML CSS support
